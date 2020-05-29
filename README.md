@@ -8,6 +8,7 @@ Its a simple API Wrapper for Python
 - [ ] Mediafire
 - [x] Anonfile
 - [ ] Mega.nz
+- [ ] Upload.me
 - [x] Vidoza
 - [x] Vivo
 
